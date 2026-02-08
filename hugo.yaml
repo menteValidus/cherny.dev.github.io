@@ -1,5 +1,6 @@
 baseURL: https://cherny.dev/
 languageCode: en-us
+title: "Cherny"
 theme: ["PaperMod"]
 
 params:
