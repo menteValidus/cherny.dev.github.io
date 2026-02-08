@@ -18,3 +18,7 @@ params:
       url: "https://www.linkedin.com/in/denis-cherny-orme/"
     - name: "GitHub"
       url: "https://github.com/menteValidus/"
+
+caches:
+  images:
+    dir: :cacheDir/images
