@@ -1,3 +1,20 @@
 baseURL: https://cherny.dev/
 languageCode: en-us
-title: Cherny
+theme: ["PaperMod"]
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Personal website of Denis Cherny"
+  author: Cherny
+  defaultTheme: auto
+
+  profileMode:
+    enabled: true
+    title: "Denis Cherny" # optional default will be site title
+    subtitle: "Mobile developer"
+
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/denis-cherny-orme/"
+    - name: "GitHub"
+      url: "https://github.com/menteValidus/"
